@@ -20,29 +20,22 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
-
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-
-
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
