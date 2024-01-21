@@ -42,6 +42,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/surapuramakhil"><img src="https://img.shields.io/badge/-Bhavana%20Kurra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/surapuramakhil"><img src="https://img.shields.io/badge/-Akhil%20Surapuram-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:surapuramakhil@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
