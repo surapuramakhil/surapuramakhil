@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- 💡 &nbsp;I’m a Computer Science Engineer who turned into a Data Scientist.
+- 💡 &nbsp;I’m a Computer Science Grad, Have solid Skill and experience in areas of Software Engineering , Data Engineering and Data Science
 - 🌱 &nbsp;I like creating simplified solutions and love to explore new technologies.
 - ✍️ &nbsp;In my free time, I listen to music, read books, and go for long walks. 
 - 💬&nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
@@ -15,19 +15,34 @@
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;\
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
