@@ -7,12 +7,7 @@
 - 💡 &nbsp;I’m a Computer Science Grad, Have solid Skill and experience in areas of Software Engineering , Data Engineering and Data Science
 - 🌱 &nbsp;I like creating simplified solutions and love to explore new technologies.
 - ✍️ &nbsp;In my free time, I listen to music, read books, and go for long walks. 
-- 💬&nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
-<!--I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\-->
-<!-- 🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\ -->
-<!--🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping or I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture..\ -->
-<!--✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\ -->
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions! -->
+- 💬&nbsp;I am currently looking for a job opportunity in SE (software Engineering) , DE (Data Engineering)  & DS (Data Science) . Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
