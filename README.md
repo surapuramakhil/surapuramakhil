@@ -14,21 +14,41 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Languages
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![GoLang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=Go)&nbsp;
 
+#### Backend Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=6DB33F)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)
+![Go HTTP](https://img.shields.io/badge/-Go_HTTP-333333?style=flat&logo=go&logoColor=00ADD8)
+![Node.js / Express](https://img.shields.io/badge/-Node.js_/_Express-333333?style=flat&logo=node.js&logoColor=339933)
+
+
+#### Databases
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)&nbsp;
+![Cassandra](https://shields.io/badge/Cassandra-lightgrey?logo=apachecassandra&style=plastic&logoColor=white&labelColor=blue)&nbsp;
+![ClickHouse](https://shields.io/badge/ClickHouse-lightgrey?logo=clickhouse&style=plastic&logoColor=white&labelColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
 
-
+#### Frontends
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat&logo=vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=563D7C)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
 
+#### IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
 
