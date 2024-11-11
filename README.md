@@ -48,6 +48,30 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=563D7C)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
 
+
+#### Data Engineering
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=apache-kafka)&nbsp;
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-333333?style=flat&logo=apache-spark)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-333333?style=flat&logo=apache-airflow)&nbsp;
+![AWS Athena](https://img.shields.io/badge/-AWS_Athena-333333?style=flat&logo=amazon-aws)&nbsp;
+![AWS S3](https://img.shields.io/badge/-AWS_S3-333333?style=flat&logo=amazon-aws)&nbsp;
+
+
+#### Business Intelligence Tools
+![QuickSight](https://img.shields.io/badge/-QuickSight-333333?style=flat&logo=amazon-quicksight)&nbsp;
+![Apache Superset](https://img.shields.io/badge/-Apache_Superset-333333?style=flat&logo=apache-superset)&nbsp;
+
+
+#### Data Science
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=hugging-face)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)&nbsp;
+
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=Jupyter)&nbsp;
