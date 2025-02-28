@@ -106,3 +106,5 @@
 <a href="https://www.linkedin.com/in/surapuramakhil"><img src="https://img.shields.io/badge/-Akhil%20Surapuram-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:surapuramakhil@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/surapuramakhil/stats)
