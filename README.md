@@ -1,5 +1,6 @@
 ## 👋  &nbsp;Hi there, I'm Akhil! 
- 
+
+![](https://komarev.com/ghpvc/?username=surapuramakhil)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
